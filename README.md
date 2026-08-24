@@ -1,3 +1,5 @@
+[English](README.md) | [Türkçe](README_TR.md)
+
 # Portfolio
 
 A portfolio web application developed with ASP.NET Core MVC as part of my software development training.
