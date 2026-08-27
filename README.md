@@ -2,7 +2,7 @@
 
 # Portfolio
 
-A portfolio web application developed with ASP.NET Core MVC as part of my software development training.
+ASP.NET Core MVC portfolio application for showcasing software projects, skills and professional development work.
 
 ## Technologies
 
